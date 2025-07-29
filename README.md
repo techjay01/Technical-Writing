@@ -129,12 +129,3 @@ api.connect();
 |--------------|---------|---------------|
 | `API_PORT`   | `3000`  | Server port   |
 ```
-
----
-
-### **Tools to Help**  
-- **Editors**: VS Code (with Markdown preview), Typora.  
-- **Templates**: [Awesome README](https://github.com/matiassingers/awesome-readme), [Make a README](https://www.makeareadme.com/).  
-- **Linters**: [Markdownlint](https://github.com/DavidAnson/markdownlint).
-
-A great README balances clarity, completeness, and brevity. Start with the essentials and expand as your project evolves!
